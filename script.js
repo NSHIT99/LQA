@@ -1,6 +1,6 @@
 const overlay = document.getElementById('overlay');
 const loveMessage = document.getElementById('loveMessage');
-const loveText = "MY BABY LOVE YOU SO MUCH FOREVER YOU AND I!!! I LOVE YOU OH I LOVE YOU SO MUCH FOREVER LQA";
+const loveText = "❤️MY BABY LOVE YOU SO MUCH FOREVER YOU AND I!!! I LOVE YOU OH I LOVE YOU SO MUCH FOREVER LQA❤️";
 const audio = document.getElementById('audio');
 
 
